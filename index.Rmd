@@ -1,0 +1,19 @@
+---
+title: "读书笔记：中共的治理与适应"
+author: 
+  - Yuyang Shi
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+description: "政治学显然还没有发展起合适的工具和范畴，可以对像中国这样的政治体制的经济社会发展与稳定进行更细致的分类。"
+documentclass: book
+
+---
+
+# Douban Link
+
+https://book.douban.com/subject/26592476/
+
+
+
+

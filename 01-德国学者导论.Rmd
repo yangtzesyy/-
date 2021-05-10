@@ -1,0 +1,91 @@
+# 德国学者导论 P4-P23
+
+目的：将政治学与中国研究结合起来
+
+议题：分析中国的治理改革 并 剖析其对当代中国制度适应性与制度创新带来的后果
+
+## 出发点：韧性威权主义
+
+成见：威权体系
+
+1. 经济无效率、无创新、缺乏合法性
+2. 脆弱-合法性基础羸弱、过分依赖强制力、决策过于集中、个人权利超过制度规范
+
+现实：中国和苏联同属维权国家，中国经济发展、政治稳定了，CCP有较高的合法性
+
+解释路径
+
+1. Andrew Nathan: resilient authoritarianism^[https://www.cecc.gov/sites/chinacommission.house.gov/files/documents/hearings/2004/CECC%20Hearing%20Testimony%20-%20Andrew%20Nathan%20additional%20PDF%20-%206.3.04.pdf]
+
+   一种能够对社会需求进行充分回应的威权体系
+
+2. Robert A. Kagan: 威权巩固
+
+3. Bruce Gilley
+
+   通过持续的制度变迁和制度绩效，中国的政治领导层获得了合法性^[http://cup.columbia.edu/book/the-right-to-rule/9780231138727]
+
+4. Gart Sigley: 政党-国家体制的重组
+
+5. David Shambaugh: 政党国家的收缩与适应并存
+
+6. Sebastian Heilmann & Oliver Melton: 计划体制的成功转型（有适应性的计划）、将零星的实验吸收到宏观计划之中
+
+7. 何包钢&Mark E. Warren: 协商式威权主义^[https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/authoritarian-deliberation-the-deliberative-turn-in-chinese-political-development/5B8944AA133D4BB08BAD8FD713723C0C]
+
+8. Ann-Mary Brady：政党国家利用媒体和宣传成功地影响了公共舆论^[https://www.amazon.com/Marketing-Dictatorship-Propaganda-Contemporary-Perspectives/dp/074254057X]
+
+9. Teresa Wright: 不同的社会阶层和群体因为不同原因依赖政党国家，不可能挑战CCP统治
+
+10. Thomas Heberer & Gunter Schubert: 地方干部的战略群体strategic groups 以及地方政府的政策过程
+
+ 问题：威权主义国家是否是个好概念？^[https://www.journalofdemocracy.org/articles/china-and-east-asian-democracy-the-patterns-of-history/]
+
+* Peter Evans: institutional monocropping^[https://link.springer.com/article/10.1007/BF02686327]
+* 威权主义无法解释威权主义国家的差异性
+
+结论：政治学还没有发展起合适的工具和范畴，可以对像中国这样的政治体制的经济社会发展与稳定进行更细致的分类
+
+## 地方政府的作用
+
+地方政府的自由裁量权——policy modeling & policy experimentation
+
+实验——样本&推广^[https://www.jstor.org/stable/20066378]
+
+## 中国国家的稳定性与合法性
+
+俞可平：稳定是公共治理的核心目标
+
+发展理论：威权国家不可能以稳定的方式发展
+
+* 缺乏权力监督制衡、法律和司法体系尚未制度化充分
+* Samuel Huntington: Political Ordering in Changing Society^[https://en.wikipedia.org/wiki/Political_Order_in_Changing_Societies]
+  * 传统社会结构衰败、新财富阶层兴起、人口流动增加、贫富差距拉大、教育水平提高、大众媒体普及——过高预期——冲突
+
+稳定：不是刚性的（持续性），指体系有能力恢复社会秩序，并以有利于政权的方式解决危机；渐进转型
+
+中国：正常模式normal mode of preserving stability——危机模式crisis mode of policy management
+
+**快速现代化社会的典型特征包括社会不平等、不确定、腐败、传统共同体解体...中共将其塑造为稳定和持续进步的力量以成为依赖？**
+
+稳定与活力的三大支柱
+
+1. 经济增长的发展型国家
+2. 进行制度调整与保证政策执行灵活性的能力
+3. **深思熟虑的政治策略 deliberate political strategy**
+   1. 最重要：即中国领导层的能力状况leadership status
+
+关键：政党国家激发了领导干部“进行改良的意愿”^[https://www.dukeupress.edu/the-will-to-improve/]——福科的治理术governmentality
+
+* 将“进行改良的意愿”灌输给地方干部和民众
+
+## 本书的主要内容
+
+1. 中国政治与意识形态变迁
+2. 地方政府
+3. 社会视角
+
+
+
+
+
